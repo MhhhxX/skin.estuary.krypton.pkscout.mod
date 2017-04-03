@@ -12,6 +12,8 @@
 		<res width="2560" height="1080" aspect="21:9" default="false" folder="xml" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
+		<news>1.1.1
+		- fixes from Estuary in Kodi 17.1 RC1
 		<news>1.1.3
 		- fix for error displaying music categories on home screen
 		</news>
